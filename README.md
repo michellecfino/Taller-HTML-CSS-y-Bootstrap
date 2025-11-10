@@ -1,1 +1,1 @@
-"# Taller-HTML-CSS-y-Bootstrap" 
+Página sobre una pequeña introducción a la banda My Chemical Romance 🐮
